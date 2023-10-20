@@ -1,0 +1,11 @@
+baseURL = 'https://arne-wiese.github.io/portfolio-website/'
+languageCode = 'en-us'
+title = 'Arne Wiese'
+theme = 'ananke'
+
+[author]
+  name = "Weezy"
+  homepage = "https://arne-wiese.github.io/my-blog/"
+
+[params]
+    show_reading_time = true
