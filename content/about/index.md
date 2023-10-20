@@ -7,4 +7,4 @@ menu:
 ---
 {{< figure src="../images/notebook.jpg" >}}
 
-**Hallo**, ich bin ein Informatik Student der seine Faszination in Data-Science gefunden hat.
+**Hallo**, ich bin ein Informatik Student und Data Scientist aus Kiel.

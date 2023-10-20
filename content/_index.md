@@ -1,10 +1,11 @@
 ---
-title: "Weezy's Blog"
+title: "Passion Comes First"
 
-description: "Produktivität & Data-Science"
+description: "Computer Science, Produktivität & Fitness"
 # 1. To ensure Netlify triggers a build on our exampleSite instance, we need to change a file in the exampleSite directory.
 theme_version: '2.8.2'
 cascade:
   featured_image: ''
 ---
-Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below.
+
+Wilkommen zu meinem Blog. Hier werde ich den Prozess meiner Arbeiten dokumentieren. Von Data Science Projekten, bis hin zu Buchzusammenfassungen.
