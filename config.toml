@@ -9,3 +9,13 @@ theme = 'ananke'
 
 [params]
     show_reading_time = true
+
+[[params.ananke_socials]]
+    name = "instagram"
+    url = "https://instagram.com/arne_weezy"
+    label = "My Insta"
+
+[[params.ananke_socials]]
+    name = "github"
+    url = "https://github.com/Arne-Wiese"
+    label = "My Github"
